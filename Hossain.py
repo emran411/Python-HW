@@ -1,0 +1,2 @@
+from emran import*
+print
