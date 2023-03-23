@@ -1,2 +1,2 @@
 from emran import*
-print
+print(day)
